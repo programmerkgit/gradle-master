@@ -11,3 +11,5 @@
 - Class Files
 - Class Path
 - [IDEA compile](https://www.jetbrains.com/help/idea/compiling-applications.html)
+- [Build command of IDEA](https://www.jetbrains.com/help/idea/compiling-applications.html#compile_module)
+- [Compile Before Running](https://www.jetbrains.com/help/idea/compiling-applications.html#compile_before_launch)
